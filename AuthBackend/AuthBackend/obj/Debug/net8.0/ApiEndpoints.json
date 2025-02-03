@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "AuthBackend.Controllers.AuthController",
+    "Method": "createStudent",
+    "RelativePath": "api/create-Student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "AuthBackend.Models.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
