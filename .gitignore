@@ -1,6 +1,36 @@
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
-.vscode/
+# User-specific Files
 .vs/
+*.user
+*.suo
+*.vssscc
+*.vspscc
+*.sln.docstates
+*.cache
+
+# Build Folders
+bin/
+obj/
+
+# Logs and Debugging
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
+
+# NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+
+
+# Temporary Files
+*_ReSharper*/
+*.resharper*
+*.dotCover
+*.coverage
+
+# Entity Framework Migrations
+Migrations/
 
 
 # Compiled output
