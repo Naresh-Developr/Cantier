@@ -1,0 +1,137 @@
+[
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "GetStudentsFromStoredProc",
+    "RelativePath": "api",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApiEntityFrameWork.Data.Student, WebApiEntityFrameWork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "GetStudentByName",
+    "RelativePath": "api/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "get by name students"
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "DeleteStudentsById",
+    "RelativePath": "api/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "delete by id of students"
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "getStudentById",
+    "RelativePath": "api/get/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[WebApiEntityFrameWork.Data.Student, WebApiEntityFrameWork, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "get student by Id"
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApiEntityFrameWork.Models.StudentMod",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApiEntityFrameWork.Models.StudentMod",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "Create student"
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "TestLog",
+    "RelativePath": "api/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiEntityFrameWork.Controllers.StudentController",
+    "Method": "UpdateDetails",
+    "RelativePath": "api/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "WebApiEntityFrameWork.Models.StudentMod",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "update a record"
+  }
+]
