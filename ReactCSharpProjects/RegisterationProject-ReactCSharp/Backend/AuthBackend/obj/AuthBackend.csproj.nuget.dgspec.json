@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\AuthBackend.csproj": {}
+    "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\AuthBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\AuthBackend.csproj": {
+    "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\AuthBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\AuthBackend.csproj",
+        "projectUniqueName": "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\AuthBackend.csproj",
         "projectName": "AuthBackend",
-        "projectPath": "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\AuthBackend.csproj",
+        "projectPath": "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\AuthBackend.csproj",
         "packagesPath": "C:\\Users\\Spcp1151\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\obj\\",
+        "outputPath": "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

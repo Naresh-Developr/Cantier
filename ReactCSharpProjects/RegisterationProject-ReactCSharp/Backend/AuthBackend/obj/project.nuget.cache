@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kAQLB3dDz+A=",
+  "dgSpecHash": "HHc40G/YHGQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Spcp1151\\source\\repos\\AuthBackend\\AuthBackend\\AuthBackend.csproj",
+  "projectFilePath": "C:\\Users\\Spcp1151\\source\\repos\\ReactCSharpProjects\\RegisterationProject-ReactCSharp\\Backend\\AuthBackend\\AuthBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Spcp1151\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Spcp1151\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
