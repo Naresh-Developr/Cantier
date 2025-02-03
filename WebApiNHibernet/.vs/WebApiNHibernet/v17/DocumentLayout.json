@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|solutionrelative:webapinhibernet\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|solutionrelative:webapinhibernet\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\helper\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernate.csproj|solutionrelative:webapinhibernet\\helper\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|solutionrelative:webapinhibernet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|solutionrelative:webapinhibernet\\mappings\\studentmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|c:\\users\\spcp1151\\source\\repos\\webapinhibernet\\webapinhibernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670EFF65-6A86-4250-A6B0-340899D3CFF9}|WebApiNHibernet\\WebApiNHibernet.csproj|solutionrelative:webapinhibernet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Controller\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Controller\\StudentController.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Controller\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:54:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:23:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMap.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Mappings\\StudentMap.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Mappings\\StudentMap.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Mappings\\StudentMap.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Mappings\\StudentMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:15:07.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Models\\Student.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:13:02.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Helper\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Helper\\NHibernateHelper.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Helper\\NHibernateHelper.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Helper\\NHibernateHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:11:52.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiNHibernet\\Program.cs",
+              "ToolTip": "C:\\Users\\Spcp1151\\source\\repos\\WebApiNHibernet\\WebApiNHibernet\\Program.cs",
+              "RelativeToolTip": "WebApiNHibernet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:09:46.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

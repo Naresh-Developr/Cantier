@@ -1,0 +1,6 @@
+@WebApiNHibernet_HostAddress = http://localhost:5118
+
+GET {{WebApiNHibernet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

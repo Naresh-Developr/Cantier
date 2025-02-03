@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Y4QauYSEGHEMwlMHT+dJn1TzGTi7+3r+XIROvTE8xMs=",
+  "Source": "WebApiNHibernate",
+  "BasePath": "_content/WebApiNHibernate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
